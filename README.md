@@ -1,8 +1,8 @@
 # Criando um ambiente virtual
-python -m venv tutorial-env
+python -m venv teste-env
 
 # Ativando o ambiente virtual no windows
-tutorial-env\Scripts\activate.bat
+teste-env\Scripts\activate.bat
 
 # Ativando o ambiente virtual no linux
-source tutorial-env/bin/activate
+source teste-env/bin/activate
